@@ -122,20 +122,3 @@ src/
 ✅ localStorage persistence  
 ✅ Responsive design  
 ✅ Clean, modern UI
-
-## Assignment Requirements Met
-
-- ✅ React/Next.js application
-- ✅ Counter with + and - buttons
-- ✅ Add button that adds to list and resets counter
-- ✅ List display below counter
-- ✅ Sort button with toggle functionality
-- ✅ Clean layout with counter and list sections
-- ✅ useState for state management
-- ✅ No backend required
-- ✅ Ready for Vercel deployment
-- ✅ Ready for GitHub push
-
-## License
-
-This project is created for the RAIQA Health Assignment.
